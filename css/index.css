@@ -264,13 +264,13 @@ nav {
   .discount {
     position: absolute;
     top: 55%;
-    left: 8%;
+    left: 12%;
     z-index: 1;
   }
   .discount-content {
     position: absolute;
     top: 60%;
-    left: 12%;
+    left: 15%;
     z-index: 2;
   }
 }
